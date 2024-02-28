@@ -9,7 +9,10 @@ redirect_from:
 
 
 I am a finance graduate from the [University of Illinois at Urbana-Champaign](https://giesbusiness.illinois.edu/), with research interests spanning asset pricing, labor economics, and the design of trading algorithms. Currently, I am fortunate to be conducting research at the Sustainable Investment Research Center under [Prof.Yan](https://en.saif.sjtu.edu.cn/faculty-research/yan-hong) at the [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/). Additionally, I manage several academic projects for [Prof. Zhang](https://giesbusiness.illinois.edu/profile/qingquan-zhang) at UIUC. 
+
 Please find my resume here:[Yuanchi's Vitae]()
+
+[Email](mailto:yuanchi2@illinois.edu)/ [Github](https://github.com/randomforcast)/ [Wechat](../images/wechat.jpg)/
 
 A data-driven personal website
 ======
