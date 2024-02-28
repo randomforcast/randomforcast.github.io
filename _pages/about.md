@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+I am a finance graduate from the [University of Illinois at Urbana-Champaign](https://giesbusiness.illinois.edu/), with research interests spanning asset pricing, labor economics, and the design of trading algorithms. Currently, I am fortunate to be conducting research at the Sustainable Investment Research Center under [Prof.Yan](https://en.saif.sjtu.edu.cn/faculty-research/yan-hong) at the [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/). Additionally, I manage several academic projects for [Prof. Zhang](https://giesbusiness.illinois.edu/profile/qingquan-zhang) at UIUC. 
+Please find my resume here:[Yuanchi's Vitae]()
 
 A data-driven personal website
 ======
