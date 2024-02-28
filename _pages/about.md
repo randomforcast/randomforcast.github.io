@@ -12,7 +12,7 @@ I am a finance graduate from the [University of Illinois at Urbana-Champaign](ht
 
 Please find my resume here:[Yuanchi's Vitae]()
 
-[Email](mailto:yuanchi2@illinois.edu)/ [Github](https://github.com/randomforcast)/ [Wechat](randomforcast.github.io/images/weixin.jpg)
+[Email](mailto:yuanchi2@illinois.edu)/ [Github](https://github.com/randomforcast)/ [Wechat](images/weixin.jpg)
 
 A data-driven personal website
 ======
